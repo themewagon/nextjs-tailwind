@@ -5,25 +5,25 @@ import CourseCard from "@/components/course-card";
 
 const OTHER_COURSES = [
   {
-    img: "/nextjs-tailwind/image/blogs/blog-1.svg",
+    img: "/material-tailwind-course/image/blogs/blog-1.svg",
     title: "Future of Web Development: Trends and Innovations",
     desc: "Discover the latest trends and innovations shaping the future of web development.",
     buttonLabel: "register for free",
   },
   {
-    img: "/nextjs-tailwind/image/blogs/blog2.svg",
+    img: "/material-tailwind-course/image/blogs/blog2.svg",
     title: "WebDev Pro Code-a-Thon: Build a Responsive Website",
     desc: "Participants will have 48 hours to create a responsive website from scratch using HTML, CSS, and JavaScript.",
     buttonLabel: "register for free",
   },
   {
-    img: "/nextjs-tailwind/image/blogs/blog3.svg",
+    img: "/material-tailwind-course/image/blogs/blog3.svg",
     title: "Ask the Experts: Frontend Web Development",
     desc: "Join our live Q&A session with our experienced instructors. Get answers to your queries, insights into best practices.",
     buttonLabel: "get ticket",
   },
   {
-    img: "/nextjs-tailwind/image/blogs/blog4.svg",
+    img: "/material-tailwind-course/image/blogs/blog4.svg",
     title: "Web Accessibility: Building Inclusive Websites",
     desc: "Industry experts will discuss the importance of inclusive design and share strategies for creating websites.",
     buttonLabel: "get ticket",

@@ -19,7 +19,7 @@ export function CarouselFeatures() {
           Discover what our students have to say about our course!
         </Typography>
       </div>
-      <div className="container mx-auto !rounded-lg bg-[url('/nextjs-tailwind/image/Background.png')] bg-center py-10 lg:px-16">
+      <div className="container mx-auto !rounded-lg bg-[url('/material-tailwind-course/image/Background.png')] bg-center py-10 lg:px-16">
         <Carousel
           transition={{ duration: 1 }}
           nextArrow={() => <></>}
@@ -68,7 +68,7 @@ export function CarouselFeatures() {
                 <Image
                   width={256}
                   height={256}
-                  src="/nextjs-tailwind/image/logos/logo-amazon 3.svg"
+                  src="/material-tailwind-course/image/logos/logo-amazon 3.svg"
                   alt="testimonial image"
                   className="h-full w-2/4 object-contain md:!w-2/3"
                 />

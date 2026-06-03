@@ -1,16 +1,16 @@
 # NextJS Tailwind Course Details Page
 #### Preview
 
- - [Demo](https://themewagon.github.io/nextjs-tailwind/)
+ - [Demo](https://themewagon.github.io/material-tailwind-course/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/nextjs-tailwind/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/material-tailwind-course/)
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/nextjs-tailwind.git
+git clone https://github.com/themewagon/material-tailwind-course.git
 ```
 2. Install Dependencies
 ```

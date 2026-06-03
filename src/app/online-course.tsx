@@ -39,7 +39,7 @@ export function OnlineCourse() {
           <Image
             width={768}
             height={500}
-            src="/nextjs-tailwind/image/online-course.png"
+            src="/material-tailwind-course/image/online-course.png"
             className="h-full max-h-[500px] w-full object-cover scale-110"
             alt="online course"
           />

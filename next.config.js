@@ -2,8 +2,8 @@
 const nextConfig = {
   output: "export",
   trailingSlash: true,
-  basePath:"/nextjs-tailwind",
-  assetPrefix:"/nextjs-tailwind",
+  basePath:"/material-tailwind-course",
+  assetPrefix:"/material-tailwind-course",
   typescript: {
     ignoreBuildErrors: true,
   },
